@@ -8,6 +8,13 @@
 - CSS Modules
 
 
+# Instalar no computador
+
+instalar git
+
+instalar node
+
+
 # Instalar dependências
 
 npm install
